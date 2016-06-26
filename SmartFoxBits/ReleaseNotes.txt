@@ -1,0 +1,4 @@
+SmartFoxBits Base Pack "Community Edition" for Flex
+---------------------------------------------------
+v1.0
+- First release.
